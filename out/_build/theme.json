@@ -1,0 +1,48 @@
+{
+ "label": "Teknologi — Slate & Cyan",
+ "mood": "Modern, presisi, cocok untuk dokumentasi teknis, panduan TIK/koding, buku digital",
+ "colors": {
+  "primary": "#1E293B",
+  "primary2": "#0E7490",
+  "primaryLight": "#E6F4F7",
+  "primaryDark": "#0B1220",
+  "accent": "#22D3EE",
+  "accentDark": "#0E6377",
+  "accentLight": "#E0F7FB",
+  "success": "#147A3A",
+  "successLight": "#E7F6EC",
+  "danger": "#B91C1C",
+  "dangerLight": "#FDECEC",
+  "info": "#1D4ED8",
+  "infoLight": "#EAF0FE",
+  "violet": "#6D28D9",
+  "violetLight": "#F1EBFD",
+  "neutral": "#334155",
+  "neutralLight": "#EEF2F6",
+  "ink": "#0F172A",
+  "muted": "#475569",
+  "line": "#D9E0E8",
+  "zebra": "#F7F9FB",
+  "codeBg": "#F4F6F9",
+  "codeHead": "#0B1220",
+  "series": [
+   "#1E293B",
+   "#0E7490",
+   "#15803D",
+   "#C2410C",
+   "#6D28D9"
+  ],
+  "paper": "#FFFFFF"
+ },
+ "fonts": {
+  "heading": "Bricolage Grotesque",
+  "body": "Instrument Sans",
+  "mono": "JetBrains Mono"
+ },
+ "type": {
+  "base": 9.9,
+  "leading": 1.6,
+  "headingWeight": 700
+ },
+ "name": "teknologi"
+}
