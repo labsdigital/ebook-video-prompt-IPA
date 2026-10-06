@@ -1,0 +1,40 @@
+# Konfigurasi Buku — Prompt Video IPA/Sains
+
+title: Panduan Prompt AI untuk Video Pembelajaran IPA
+subtitle: Kumpulan prompt generatif video sains untuk guru dan pembuat konten edukasi
+kicker: Edisi Pertama
+edition: Oktober 2026
+author: Tim Labsdigital
+institution: taraka.id
+lang: id
+theme: teknologi
+page_size: B5
+part_label: Bab
+footer_text: Prompt Video IPA · Labsdigital 2026
+toc: true
+toc_after: Pengantar
+cover:
+  motif: waves
+  tagline: Dari Prompt ke Visual Sains yang Memikat
+  title_lines:
+    - Prompt
+    - {text: Video, style: accent}
+    - Pembelajaran
+    - {text: IPA & Sains, style: accent}
+  highlights:
+    - {mark: P, label: Praktis}
+    - {mark: V, label: Visual}
+    - {mark: A, label: Aktif}
+  chips: [50+ Prompt, Segala Jenjang, Agnostik Model]
+back_cover:
+  quote: '"Video adalah jendela pemahaman. Prompt adalah kuncinya."'
+  blurb: Buku ini berisi kumpulan prompt yang dirancang khusus untuk menghasilkan video pembelajaran IPA — dari konsep fisika hingga ekosistem — dengan visual yang jelas dan narasi yang mudah dipahami.
+  bullets:
+    - Prompt agnostik model
+    - Struktur konsisten & teruji
+    - Langsung salin & gunakan
+chapters:
+  - chapters/*.md
+output:
+  name: Prompt-Video-IPA
+  formats: [pdf, docx]
