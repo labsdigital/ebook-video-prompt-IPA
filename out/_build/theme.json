@@ -1,48 +1,77 @@
 {
- "label": "Teknologi — Slate & Cyan",
- "mood": "Modern, presisi, cocok untuk dokumentasi teknis, panduan TIK/koding, buku digital",
+ "label": "IPA Sains — Minimal & Fokus",
+ "mood": "Tenang, fokus pada konten. Maksimal 3 warna per slide. Warna berbeda per kategori untuk navigasi visual tanpa distraksi.",
  "colors": {
-  "primary": "#1E293B",
-  "primary2": "#0E7490",
-  "primaryLight": "#E6F4F7",
-  "primaryDark": "#0B1220",
-  "accent": "#22D3EE",
-  "accentDark": "#0E6377",
-  "accentLight": "#E0F7FB",
-  "success": "#147A3A",
-  "successLight": "#E7F6EC",
-  "danger": "#B91C1C",
-  "dangerLight": "#FDECEC",
-  "info": "#1D4ED8",
-  "infoLight": "#EAF0FE",
-  "violet": "#6D28D9",
-  "violetLight": "#F1EBFD",
-  "neutral": "#334155",
-  "neutralLight": "#EEF2F6",
-  "ink": "#0F172A",
-  "muted": "#475569",
-  "line": "#D9E0E8",
-  "zebra": "#F7F9FB",
-  "codeBg": "#F4F6F9",
-  "codeHead": "#0B1220",
+  "primary": "#1E3A5F",
+  "primary2": "#2D5A86",
+  "primaryLight": "#E8F0F7",
+  "primaryDark": "#0F1F33",
+  "accent": "#3182CE",
+  "accentDark": "#2B6CB0",
+  "accentLight": "#BEE3F8",
+  "success": "#276749",
+  "successLight": "#C6F6D5",
+  "danger": "#C53030",
+  "dangerLight": "#FED7D7",
+  "warning": "#B7791F",
+  "warningLight": "#FEFCBF",
+  "info": "#2B6CB0",
+  "infoLight": "#BEE3F8",
+  "violet": "#6B46C1",
+  "violetLight": "#E9D8FD",
+  "neutral": "#4A5568",
+  "neutralLight": "#F7FAFC",
+  "ink": "#1A1A2E",
+  "ink-strong": "#0F1F33",
+  "muted": "#4A5568",
+  "line": "#CBD5E0",
+  "zebra": "#F7FAFC",
+  "codeBg": "#EDF2F7",
+  "codeHead": "#1E3A5F",
+  "paper": "#FFFFFF",
   "series": [
-   "#1E293B",
-   "#0E7490",
-   "#15803D",
-   "#C2410C",
-   "#6D28D9"
-  ],
-  "paper": "#FFFFFF"
+   "#1E3A5F",
+   "#2D5A86",
+   "#3182CE",
+   "#276749",
+   "#D69E2E"
+  ]
+ },
+ "category_colors": {
+  "fisika": {
+   "title": "#1E3A5F",
+   "accent": "#3182CE",
+   "light": "#BEE3F8",
+   "description": "Biru — suhu, gerak, energi"
+  },
+  "kimia": {
+   "title": "#276749",
+   "accent": "#38A169",
+   "light": "#C6F6D5",
+   "description": "Hijau — reaksi, materi, ikatan"
+  },
+  "biologi": {
+   "title": "#744210",
+   "accent": "#D69E2E",
+   "light": "#FEFCBF",
+   "description": "Emas-coklat — kehidupan, sel, organisme"
+  },
+  "bumi": {
+   "title": "#702459",
+   "accent": "#9F7AEA",
+   "light": "#E9D8FD",
+   "description": "Ungu — planet, atmosfer, lingkungan"
+  }
  },
  "fonts": {
-  "heading": "Bricolage Grotesque",
-  "body": "Instrument Sans",
+  "heading": "Poppins",
+  "body": "Lora",
   "mono": "JetBrains Mono"
  },
  "type": {
-  "base": 9.9,
+  "base": 10.5,
   "leading": 1.6,
-  "headingWeight": 700
+  "headingWeight": 600
  },
- "name": "teknologi"
+ "name": "ipa-minimal"
 }
